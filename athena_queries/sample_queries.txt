@@ -1,0 +1,4 @@
+select * from default.cr22_variant as variant
+LEFT JOIN default.cr22population as population
+ON population.col0 = variant.sampleid
+limit 100

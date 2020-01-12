@@ -1,0 +1,4 @@
+You dont really need this one. Only if you want to process the VCF to Parquet using the ADAM pipeline. But thats already been done and you can just use the generated parquet files.
+
+https://1drv.ms/u/s!ApEZ6UVRREVzg8VOkzGpXQxD1oP6Pg
+
